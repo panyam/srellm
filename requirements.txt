@@ -1,0 +1,12 @@
+fastapi
+rags
+qdrant_client
+uvicorn
+pydantic
+faiss-cpu
+sentence-transformers
+numpy
+pandas
+tqdm
+ipython
+ipdb

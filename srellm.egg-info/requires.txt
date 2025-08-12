@@ -1,0 +1,17 @@
+fastapi
+qdrant_client
+uvicorn
+pydantic
+faiss-cpu
+sentence-transformers
+numpy
+pandas
+tqdm
+ipython
+ipdb
+
+[dev]
+pytest
+black
+flake8
+mypy
