@@ -20,6 +20,12 @@ dependencies = [
     "tqdm",
     "ipython",
     "ipdb",
+    "ragas",
+    "openai",
+    "datasets",
+    "langchain",
+    "langchain-openai",
+    "langchain-community",
 ]
 
 [project.optional-dependencies]
